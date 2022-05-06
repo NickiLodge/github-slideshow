@@ -1,5 +1,5 @@
 ---
-layour:slide
+layout:slide
 Title: "Welcome to our second slide!"
 ---
 Your text
